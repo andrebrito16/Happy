@@ -1,6 +1,6 @@
 import React from 'react'
 import { FiPlus } from 'react-icons/fi'
-import { Map, TileLayer } from 'react-leaflet'
+import { Map, TileLayer } from "react-leaflet-universal"
 import "leaflet/dist/leaflet.css";
 import '../styles/pages/orphanages-map.css';
 
